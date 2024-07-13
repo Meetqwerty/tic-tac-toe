@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(29, 187, 76);
+};
+.container{
+    height: 90vh;
+    width: 90vw;
+    background-color: rgb(46, 117, 248);
+}
+#game{
+    color: rgb(16, 15, 15);
+    font-size: 150px;
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    border: 1px 1px black;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    height: 800px;
+    width: 800px;
+    align-content: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 45px;
+    background-color: rgb(234 182 0);
+    text-shadow: 1 1 ;
+}
+#box{
+    height:200px;
+    width: 200px;
+    background-color: rgb(162 143 21 / 95%);;
+    margin-right: 3px;
+    margin-bottom:3px;
+}
+#bid{
+    color: black;
+    background-color: chocolate;
+    height: 80px;
+    width: 250px;
+    align-items: center;
+    margin-left: 500px;
+    border-radius: 15%;
+    font-size: 25px;
+    font-size: 45px;
+    font-weight: 600;
+}
+#button{
+    background-color: chocolate;
+    height: 80px;
+    width: 250px;
+    align-items: center;
+    margin-left: 500px;
+    border-radius: 15%;
+    font-size: 25px;
+    font-size: 45px;
+    font-weight: 600;
+}
+#hide{
+    color:rgb(12, 12, 12) ;
+    border-top: 25px;
+    background-color: rgb(221, 140, 33);
+    margin-left: 500px;
+    padding-top: 5px;
+    margin-top: 50px;
+    justify-items: center;
+    text-align: center;
+    height: 150px;
+    width: 500px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight:300;
+    display: none;
+    border-radius: 8%;
+    border-color: black;
+}
